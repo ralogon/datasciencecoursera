@@ -1,2 +1,2 @@
-# test-repo
-This a test repo for data science specialization on Coursera
+# Data Science Coursera
+This is a repository created for Coursera Data Science specialization courses
